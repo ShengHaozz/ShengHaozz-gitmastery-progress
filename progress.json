@@ -52,5 +52,12 @@
       "Answer for What is the commit message of the commit f545670f105f1e46cdca6e050bb5bbac360bba01? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786442794.55764,
+    "completed_at": 1786442796.808231,
+    "comments": [],
+    "status": "Completed"
   }
 ]
